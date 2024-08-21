@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Neha Singh # your name
+logo: "/images/logo.png?raw=true" # your photo here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+ My name is Neha Singh
   <br><br>
-  Second description 
+Marketing Analytics Student
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/thenehasingh/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
